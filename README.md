@@ -1,1 +1,1 @@
-# ML_Project_KAZ_NEWS
+In this project, I built a system for analyzing Kazakh news articles using unsupervised learning. The system clusters more than 27,500 articles from Tengri News using TF-IDF and K-Means to discover main topics. Text preprocessing was adapted specifically for the Kazakh language. Sentiment analysis was added using the ChatGPT API. Results are presented in an interactive Streamlit web app.
